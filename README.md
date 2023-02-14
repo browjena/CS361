@@ -38,7 +38,8 @@ Sample Request Body
 "itemId":72093}
 }
 
-Response
+RESPONSE
+
 The response will contain json data with a key value corresponding to the key that was sent in the original request and an int value equal to the minimum price found for the item searched in the specific auction house.
 Type: JSON 
 Sample Response 
