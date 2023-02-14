@@ -1,5 +1,5 @@
 ![Untitled (1)](https://user-images.githubusercontent.com/81444551/218648368-25daf3e7-e032-4d52-b059-f735de3a9419.jpg)
-![Untitled](https://user-images.githubusercontent.com/81444551/218648033-fc148032-4d9c-41c9-9127-2b542f9d90d2.jpg)
+
 # CS361 Microservice Useage
 
 
