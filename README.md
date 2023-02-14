@@ -17,6 +17,7 @@ and an "itemId" which is equal to the value of the item you want to check
  
 
 Type: JSON 
+
 BODY of request:
 {
 "0": {"auctionHouseId": int,
